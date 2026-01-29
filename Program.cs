@@ -8,8 +8,9 @@
             reversearray.revarray();
             traversestring.trastring();
             findmaxinarray.maxarray();
-            
+            checkpalindrom.revint();
             Console.ReadLine();
         }
     }
 }
+
