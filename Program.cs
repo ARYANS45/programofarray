@@ -9,8 +9,11 @@
             traversestring.trastring();
             findmaxinarray.maxarray();
             checkpalindrom.revint();
+            findmissingno.missno();
+
+            
+           
             Console.ReadLine();
         }
     }
 }
-
